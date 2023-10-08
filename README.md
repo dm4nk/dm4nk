@@ -37,10 +37,6 @@ Here are some ideas to get you started:
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 
 ---
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dm4nk&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dm4nk&theme=transparent)
-
----
 ![](https://komarev.com/ghpvc/?username=dm4nk)
 [![Static Badge](https://img.shields.io/badge/-%40dm4nk-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fdm4nk)
 ](https://t.me/dm4nk)
