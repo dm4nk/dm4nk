@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there👋, I'm glad to see you
 
 <!--
 **dm4nk/dm4nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### A few things about me
+- I'm passionate backend web developer, enjoying writing code in Java and learning new cloud related technologies :star_struck:
+- Huge :milky_way:StarWars:robot: fan
+- Currently studying for my master's at university
+
+---
+#### 🛠️Languages and Tools
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+
+---
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dm4nk&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dm4nk&theme=transparent)
+---
+![](https://komarev.com/ghpvc/?username=dm4nk)
+[![Static Badge](https://img.shields.io/badge/-%40dm4nk-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fdm4nk)
+](https://t.me/dm4nk)
+[![Static Badge](https://img.shields.io/badge/-mailto%3Adimkonx.2001%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto%3Adimkonx.2001%40gmail.com)
+](mailto:dimkonx.2001@gmail.com)
+[![Static Badge](https://img.shields.io/badge/-dim.xx2011%40yandex.ru-red?style=flat-square&&label=Y&labelColor=yellow&color=red&link=mailto%3Adim.xx2011%40yandex.ru)
+](mailto:dim.xx2011%40yandex.ru)
+
+
