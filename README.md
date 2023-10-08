@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### A few things about me
 - I'm passionate backend web developer, enjoying writing code in Java and learning new cloud related technologies :star_struck:
 - Huge :milky_way:StarWars:robot: fan
-- Currently studying for my master's at university
+- Currently studying for my master's at university 🎓
 
 ---
 #### 🛠️Languages and Tools
