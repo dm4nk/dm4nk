@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=dm4nk)
 [![Static Badge](https://img.shields.io/badge/-%40dm4nk-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fdm4nk)
 ](https://t.me/dm4nk)
-[![Static Badge](https://img.shields.io/badge/-mailto%3Adimkonx.2001%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto%3Adimkonx.2001%40gmail.com)
+[![Static Badge](https://img.shields.io/badge/-dimkonx.2001%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto%3Adimkonx.2001%40gmail.com)
 ](mailto:dimkonx.2001@gmail.com)
 [![Static Badge](https://img.shields.io/badge/-dim.xx2011%40yandex.ru-red?style=flat-square&&label=Y&labelColor=yellow&color=red&link=mailto%3Adim.xx2011%40yandex.ru)
 ](mailto:dim.xx2011%40yandex.ru)
