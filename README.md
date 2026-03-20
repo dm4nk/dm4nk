@@ -39,7 +39,5 @@ Here are some ideas to get you started:
 ](https://t.me/dm4nk)
 [![Static Badge](https://img.shields.io/badge/-dimkonx.2001%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto%3Adimkonx.2001%40gmail.com)
 ](mailto:dimkonx.2001@gmail.com)
-[![Static Badge](https://img.shields.io/badge/-dim.xx2011%40yandex.ru-red?style=flat-square&&label=Y&labelColor=yellow&color=red&link=mailto%3Adim.xx2011%40yandex.ru)
-](mailto:dim.xx2011%40yandex.ru)
 
 
